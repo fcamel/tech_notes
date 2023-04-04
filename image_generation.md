@@ -20,3 +20,9 @@ https://www.youtube.com/watch?v=JbfcAaBT66U
 
 ## 生圖就是去雜訊
 ![](https://i.imgur.com/qIjtjss.jpg)
+
+
+
+## 其它
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EpoE7D2wOeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/azBugJzmz-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
